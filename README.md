@@ -1,5 +1,6 @@
 Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot Developer from morocco. ~~And a Weeb.~~
-
+   
+   join my server : https://discord.gg/yVAJDf28ka
  **Information:**
 
 - 🔭 I’m currently working on  **Open Source Projects and Discord Bots.**
